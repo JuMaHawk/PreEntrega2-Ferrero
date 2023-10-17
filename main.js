@@ -1,4 +1,5 @@
 const productos = [];
+
 function eliminarProducto(productoEliminado) {
 
     const indice = productos.indexOf(productoEliminado);
