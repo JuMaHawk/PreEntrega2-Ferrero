@@ -37,3 +37,5 @@ while (entrada != "SALIR"){
 
      entrada = prompt("Ingresar dato ")
 } */
+
+//Esto es nuevo.
